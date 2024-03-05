@@ -5,7 +5,7 @@ Plant crops, interact with nature, and discover the secrets of your hidden farm 
 
 https://www.youtube.com/watch?v=T4IX36sP_0c
 
-game images:
+# Images:
 ![1](https://github.com/mbelk059/The-Hidden-Farm-Village/assets/114425943/a7a3246d-74d3-4c98-929e-99a512c31a0c)
 ![2](https://github.com/mbelk059/The-Hidden-Farm-Village/assets/114425943/442c13a3-2e2f-40b3-af76-a74d78cc35ef)
 ![3](https://github.com/mbelk059/The-Hidden-Farm-Village/assets/114425943/33beec32-d90f-404d-ab67-e23ba35d1e76)
